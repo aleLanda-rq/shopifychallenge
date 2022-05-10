@@ -1,0 +1,48 @@
+body{
+    background-color: #b2bdef;
+}
+h1{
+    position: relative;
+    font-family: 'Press Start 2P', cursive;
+    color:white;
+    font-size: 50px;
+    top:100px;
+    left:380px;
+}
+h4{
+    position: relative;
+    color:white;
+    font-family: 'Press Start 2P', cursive;
+   top:90px;
+   left: 380px;
+}
+#form{
+    position: relative;
+    background-color: white;
+    top: 80px;
+    width: 750px;
+    height: 350px;
+    margin: auto;
+    border-radius: 5px;
+}
+#textarea{
+    width: 750px;
+    height: 350px;
+    border-radius: 5px;
+}
+#input{
+    position: relative;
+    left: 620px;
+    top: 40px;
+    width: 144px;
+    height: 50px;
+    color: white;
+    background-color: rgba(38, 85, 251, 0.885);
+    box-shadow: 5px 5px rgba(0,0,0,0.2);
+    border-radius:100px;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+#input:hover{
+    background-color: rgba(233, 114, 192, 0.936);
+}
